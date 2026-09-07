@@ -45,7 +45,7 @@ With additional front-end experience in PUG and ReactJS, I can collaborate effec
 
 ### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
   <img src="https://img.shields.io/badge/SQL_Server-1E1E2F?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" />
 </p>
 
@@ -94,12 +94,14 @@ An online music platform where users can discover songs, artists, topics, and ma
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hoang231204&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoang231204&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/hoang231204">
+    <img src="https://github-readme-stats.vercel.app/api?username=hoang231204&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoang231204&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" width="48%" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hoang231204&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=hoang231204&theme=tokyonight&hide_border=true&background=1a1b26" width="98%" />
 </p>
 
 ---
