@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hoang Nguyen</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Back-end+Developer+%28Node.js+%2F+Express.js%29;Passionate+about+System+Security;Building+Secure+%26+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Back-end+Developer+%28Node.js+%2F+Express.js%29;Passionate+about+System+Security;Building+Secure+%26+Scalable+Systems" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -29,45 +29,29 @@ With additional front-end experience in PUG and ReactJS, I can collaborate effec
 
 ### Front-end
 <p>
-  <img src="https://img.shields.io/badge/React-1E1E2F?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-1E1E2F?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-1E1E2F?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/Bootstrap-1E1E2F?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-1E1E2F?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
   <img src="https://img.shields.io/badge/PUG-1E1E2F?style=for-the-badge&logo=pug&logoColor=A86454" />
 </p>
 
 ### Back-end
 <p>
-  <img src="https://img.shields.io/badge/Node.js-1E1E2F?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Express.js-1E1E2F?style=for-the-badge&logo=express&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/PHP-1E1E2F?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 </p>
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-1E1E2F?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-1E1E2F?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/Java-1E1E2F?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
-  <img src="https://img.shields.io/badge/C-1E1E2F?style=for-the-badge&logo=c&logoColor=A8B9CC" />
-  <img src="https://img.shields.io/badge/C++-1E1E2F?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,c,cpp" />
 </p>
 
 ### Database
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-1E1E2F?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/MySQL-1E1E2F?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1E1E2F?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   <img src="https://img.shields.io/badge/SQL_Server-1E1E2F?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" />
 </p>
 
 ### Tools & DevOps
 <p>
-  <img src="https://img.shields.io/badge/VS_Code-1E1E2F?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/Postman-1E1E2F?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-  <img src="https://img.shields.io/badge/GitHub-1E1E2F?style=for-the-badge&logo=github&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Git-1E1E2F?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/Docker-1E1E2F?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman,github,git,docker" />
   <img src="https://img.shields.io/badge/Antigravity-1E1E2F?style=for-the-badge" />
 </p>
 
