@@ -1,4 +1,3 @@
-```markdown name=README.md
 <h1 align="center">Hi 👋, I'm Hoang Nguyen</h1>
 <h3 align="center">Back-end Developer (Node.js / Express.js) from Hanoi-Vietnam</h3>
 
@@ -21,7 +20,7 @@
 - **focus:** Security and Performance Optimization  
 - **location:** Vietnam 🇻🇳  
 - **currently_working_on:** SoftDreams-Software  
-- **passion:** Building secure, efficient, and scalable backend systems that deliver real business value  
+- **passion:** Building secure, efficient, and scalable backend systems that deliver real business value
 
 💡 I'm a Back-end Developer passionate about building secure and high-performance server-side applications.  
 I mainly work with Node.js and PHP, focusing on API security, authorization, and system optimization.  
@@ -123,4 +122,3 @@ An online music platform where users can discover songs, artists, topics, and ma
 ---
 
 <p align="center">Thanks for visiting my profile! ⭐</p>
-```
