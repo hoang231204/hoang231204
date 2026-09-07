@@ -63,7 +63,7 @@ With additional front-end experience in PUG and ReactJS, I can collaborate effec
 A product management system supporting categories, products, articles, carts, orders, and user accounts.  
 **Tech:** Node.js, Express.js, MongoDB, Redis, Docker, Cloudinary  
 🔗 Repo: https://github.com/hoang231204/product-management  
-🚀 Demo: 
+🚀 Demo: https://productmanagement-sigma.vercel.app/
 
 ### 2) Chat Application
 A real-time chat application with user management, chat rooms, and online communication.  
