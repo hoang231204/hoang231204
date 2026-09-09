@@ -45,14 +45,12 @@ With additional front-end experience in PUG and ReactJS, I can collaborate effec
 
 ### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-  <img src="https://img.shields.io/badge/SQL_Server-1E1E2F?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### Tools & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,postman,github,git,docker" />
-  <img src="https://img.shields.io/badge/Antigravity-1E1E2F?style=for-the-badge" />
 </p>
 
 ---
