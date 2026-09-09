@@ -33,7 +33,7 @@
 
 ### Back-end
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
 </p>
 
 ### Languages
