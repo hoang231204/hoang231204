@@ -12,7 +12,7 @@
 
 - **name:** Hoang Nguyen  
 - **role:** Back-end Developer  
-- **backend:** Node.js, PHP  
+- **backend:** Node.js/ExpressJS, Laravel  
 - **frontend:** PUG, ReactJS  
 - **focus:** Security and Performance Optimization  
 - **location:** Vietnam 🇻🇳  
