@@ -19,9 +19,7 @@
 - **currently_working_on:** SoftDreams-Software  
 - **passion:** Building secure, efficient, and scalable backend systems that deliver real business value
 
-💡 I'm a Back-end Developer passionate about building secure and high-performance server-side applications.  
-I mainly work with Node.js and PHP, focusing on API security, authorization, and system optimization.  
-With additional front-end experience in PUG and ReactJS, I can collaborate effectively across the stack.
+💡 I'm a Back-end Developer passionate about building secure and high-performance server-side applications. I mainly work with Node.js and PHP, focusing on API security, authorization, and system optimization. With additional front-end experience in PUG and ReactJS, I can collaborate effectively across the stack.
 
 ---
 
@@ -50,7 +48,7 @@ With additional front-end experience in PUG and ReactJS, I can collaborate effec
 
 ### Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,github,git,docker" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman,github,git,docker,k6" />
 </p>
 
 ---
